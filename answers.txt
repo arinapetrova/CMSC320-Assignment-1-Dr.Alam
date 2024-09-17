@@ -7,8 +7,11 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to the online merchandise field. For example, Amazon uses data science to keep track of their products, transactions, facilities, and user preferences. Keeping track of and analyzing this data helps Amazon function smoothly and has helped it become as successful as it is.
 
-
 Q3: What is the difference between merging and rebasing?
 
 Answer: merging applies the changes made on one branch to another branch we are merging with. Rebasing moves the entire branch you are rebasing to the tip of the other branch, rewriting the project history. Instead of keeping two separate branches like with merge, rebase produces one longer branch, producing a cleaner project history. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to get comfortable using git and learn more about Pandas. I have some experience with SQL so I would like to review the query commands and database/table organization based on key relationships.
 
