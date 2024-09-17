@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git is very helpful for when we need to collaborate while coding. It maintains a history of changes made to the code, you can isolate code features by branching off of the main version, and git can also support a peer review process for our code. 
