@@ -1,3 +1,8 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git is very helpful for when we need to collaborate while coding. It maintains a history of changes made to the code, you can isolate code features by branching off of the main version, and git can also support a peer review process for our code. 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the online merchandise field. For example, Amazon uses data science to keep track of their products, transactions, facilities, and user preferences. Keeping track of and analyzing this data helps Amazon function smoothly and has helped it become as successful as it is.
